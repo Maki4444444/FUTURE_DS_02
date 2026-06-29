@@ -1,0 +1,13 @@
+Metric,Value
+Total Accounts,500.0
+Churned,110.0
+Retained,390.0
+Churn Rate (%),22.0
+Retention Rate (%),78.0
+Avg Tenure - Active (months),27.8
+Avg Tenure - Churned (months),29.0
+Avg CLV - Active ($),49418.4
+Avg CLV - Churned ($),44529.77
+Total MRR ($),11338747.0
+MRR Lost to Churn ($),2355245.0
+High Risk Accounts,0.0

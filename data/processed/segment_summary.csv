@@ -1,0 +1,31 @@
+SegmentValue,Churned,Total,Retained,ChurnRate_pct,RetentionRate_pct,AvgMRR,AvgCLV,SegmentType
+Enterprise,34,154,120,22.08,77.92,2200.27,46566.55,By Plan Tier
+Basic,37,168,131,22.02,77.98,2321.17,49612.42,By Plan Tier
+Pro,39,178,139,21.91,78.09,2265.68,48681.55,By Plan Tier
+24+ Months,77,336,259,22.92,77.08,2170.35,50612.26,By Tenure Group
+13-24 Months,33,164,131,20.12,79.88,2456.41,43693.49,By Tenure Group
+Devtools,35,113,78,30.97,69.03,2022.51,42921.13,By Industry
+Fintech,25,112,87,22.32,77.68,2371.6,51342.91,By Industry
+Healthtech,21,96,75,21.88,78.12,2112.61,45593.87,By Industry
+Edtech,13,79,66,16.46,83.54,2587.9,54474.76,By Industry
+Cybersecurity,16,100,84,16.0,84.0,2306.7,48904.41,By Industry
+DE,8,25,17,32.0,68.0,1806.92,41854.81,By Country
+US,68,291,223,23.37,76.63,2238.53,47274.53,By Country
+FR,5,22,17,22.73,77.27,2441.98,49123.45,By Country
+IN,10,49,39,20.41,79.59,2509.21,56589.68,By Country
+UK,11,58,47,18.97,81.03,2090.59,43761.42,By Country
+CA,4,23,19,17.39,82.61,2206.03,48530.76,By Country
+AU,4,32,28,12.5,87.5,2713.6,58131.67,By Country
+Medium,71,303,232,23.43,76.57,2310.75,50294.59,By Engagement Tier
+High,13,56,43,23.21,76.79,2215.96,47537.63,By Engagement Tier
+Low,26,134,108,19.4,80.6,2211.53,45015.92,By Engagement Tier
+Very Low,0,7,7,0.0,100.0,1641.79,33993.0,By Engagement Tier
+Medium,36,125,89,28.8,71.2,1689.45,35355.3,By Revenue Tier
+Very High,26,125,99,20.8,79.2,4004.57,84110.87,By Revenue Tier
+Low,25,125,100,20.0,80.0,1032.19,22422.41,By Revenue Tier
+High,23,125,102,18.4,81.6,2330.5,51483.02,By Revenue Tier
+event,29,96,67,30.21,69.79,2137.95,44553.93,By Referral Source
+other,25,103,78,24.27,75.73,2263.79,48052.77,By Referral Source
+ads,23,98,75,23.47,76.53,2153.05,47322.81,By Referral Source
+organic,20,114,94,17.54,82.46,2382.35,49971.4,By Referral Source
+partner,13,89,76,14.61,85.39,2371.79,51802.97,By Referral Source

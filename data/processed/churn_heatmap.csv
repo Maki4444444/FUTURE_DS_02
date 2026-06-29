@@ -1,0 +1,7 @@
+plan_tier,TenureGroup,Churned,Total,ChurnRate_pct
+Basic,13-24 Months,11,61,18.03
+Basic,24+ Months,26,107,24.3
+Enterprise,13-24 Months,11,49,22.45
+Enterprise,24+ Months,23,105,21.9
+Pro,13-24 Months,11,54,20.37
+Pro,24+ Months,28,124,22.58
